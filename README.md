@@ -3,7 +3,7 @@
 - 🌱 Estudando CSS, HTML e JavaScript
 - 😄 Pronouns: ela/dela
 
-<div style="display: inline-block">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marianabrgn&show_icons=true&theme=radical">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianabrgn&layout=compact&theme=radical">
+<div>
+  <img width="400em" height="180em" src="https://github-readme-stats.vercel.app/api?username=marianabrgn&show_icons=true&theme=radical">
+  <img width="400em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianabrgn&layout=compact&theme=radical">
 </div>
