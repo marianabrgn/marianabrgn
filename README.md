@@ -1,4 +1,4 @@
-## Olá! Eu sou a Mariana Brandão!
+## Olá! Eu sou a Mariana Gonçalves!
 
 - 🌱 Estudando CSS, HTML e JavaScript
 - 😄 Pronouns: ela/dela
