@@ -1,6 +1,6 @@
 ## Olá! Eu sou a Mariana Gonçalves!
 
-- 🌱 Estudando CSS, HTML e JavaScript
+- 🌱 Atualmente estudando CSS, HTML e JavaScript
 
 
 <div>
