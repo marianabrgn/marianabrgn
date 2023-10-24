@@ -1,7 +1,6 @@
 ## Olá! Eu sou a Mariana Gonçalves!
 
-- 🌱 Atualmente estudando CSS, HTML e JavaScript
-
+- 🌱 Atualmente estudando Angular e Spring Boot.
 
 <div>
   <img width="400em" height="180em" src="https://github-readme-stats.vercel.app/api?username=marianabrgn&show_icons=true&theme=radical">
