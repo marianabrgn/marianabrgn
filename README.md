@@ -1,12 +1,13 @@
 ## Olá! Eu sou a Mariana Gonçalves!
 
+```
 - 🌱 Atualmente estudando Angular e Spring Boot.
-
+```
 <div align="center">
   <a href="https://github.com/marianabrgn">
   <img width="400em" height="180em" src="https://github-readme-stats.vercel.app/api?username=marianabrgn&show_icons=true&theme=radical">
   <img width="400em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianabrgn&layout=compact&theme=radical">
-</div>
+</div><br><br>
 
 <div style="display: inline_block" align="center">
   <img align="center" alt="mariana-Angular" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg">
