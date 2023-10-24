@@ -9,6 +9,8 @@
   <img width="400em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianabrgn&layout=compact&theme=radical">
 </div><br><br>
 
+<!-- <div class="tenor-gif-embed" data-postid="6354342076960136984" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/work-office-computer-penguin-job-gif-6354342076960136984">Work Office Sticker</a>from <a href="https://tenor.com/search/work-stickers">Work Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script> -->
+
 <div style="display: inline_block" align="center">
   <img align="center" alt="mariana-Angular" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="mariana-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
