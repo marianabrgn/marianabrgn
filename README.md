@@ -4,7 +4,7 @@
 Sou uma entusiasta de tecnologia em busca de me tornar uma desenvolvedora de destaque,
 estou sempre ansiosa para aprender e aprimorar minhas habilidades.
 
-- 🌱 Atualmente estudando Angular e Spring Boot.
+- 🌱 Atualmente estudando Java e Spring Boot.
 ```
 <div align="center">
   <a href="https://github.com/marianabrgn">
